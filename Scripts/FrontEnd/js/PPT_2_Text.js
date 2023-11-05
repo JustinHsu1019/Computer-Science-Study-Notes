@@ -4,7 +4,7 @@ $(document).ready(function() {
         var formData = new FormData(this);
 
         $.ajax({
-            url: '/upload',
+            url: 'http://127.0.0.1:5000/upload',
             type: 'POST',
             data: formData,
             contentType: false,
