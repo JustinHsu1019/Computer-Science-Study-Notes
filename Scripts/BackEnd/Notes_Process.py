@@ -30,7 +30,7 @@ def do_openai(messages, retry_count=3):
         openai_api_key=config['openai_azure_api_key'],
         openai_api_type=config['openai_api_type'],
         temperature=0,
-        max_tokens=16000
+        max_tokens=10000
     )
     try:
         res = openAI(messages)
@@ -55,6 +55,7 @@ def notesprocess(zip_stream):
                     prompt = f"""
 請根據下面的文本內容摘錄出重要的十個知識點。對於每個知識點，請提供一個清晰的大標題，並給出以下信息：
 
+* 學生剛開始學習這個主題，用最簡單易懂的文字來表現 *
 1. 該知識點的介紹
 2. 該知識點重要的三個細節
 3. 關於該知識點可能考的三個考題
