@@ -9,8 +9,17 @@ $(document).ready(function() {
             data: formData,
             contentType: false,
             processData: false,
-            success: function(data) {
-                window.location.href = data;
+            xhrFields: {
+                responseType: 'blob'
+            },
+            success: function(blob) {
+                var url = window.URL.createObjectURL(blob);
+                var a = document.createElement('a');
+                a.href = url;
+                a.download = 'result.zip';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
             },
             error: function(xhr, status, error) {
                 $('#alert-placeholder').html(
