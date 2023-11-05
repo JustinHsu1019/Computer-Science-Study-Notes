@@ -1,0 +1,13 @@
+#upload-form {
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+#file-input {
+    margin: 20px 0;
+}
+
+#alert-placeholder {
+    max-width: 600px;
+    margin: 0 auto;
+}

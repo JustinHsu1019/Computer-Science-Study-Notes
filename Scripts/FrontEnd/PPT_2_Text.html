@@ -1,0 +1,17 @@
+<link href="css/PPT_2_Text.css" rel="stylesheet" type="text/css">
+
+<div class="jumbotron text-center">
+    <h2 class="display-4">PPT To Text Converter</h2>
+    <p class="lead">Upload a .zip file containing .pptx files and download them as text.</p>
+    <hr class="my-4">
+    <form id="upload-form" enctype="multipart/form-data">
+        <div class="form-group">
+            <input type="file" class="form-control-file" id="file-input" name="file" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg">Convert</button>
+    </form>
+</div>
+
+<div id="alert-placeholder"></div>
+
+<script src="js/PPT_2_Text.js"></script>
