@@ -19,10 +19,16 @@
                 <a class="nav-link active" id="ppt-to-text-tab" data-toggle="tab" href="#ppt-to-text" role="tab"
                     aria-controls="ppt-to-text" aria-selected="true">PPT To Text</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" id="notes-process-tab" data-toggle="tab" href="#notes-process" role="tab"
+                    aria-controls="notes-process" aria-selected="false">Notes Process</a>
+            </li>
         </ul>
 
         <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="ppt-to-text" role="tabpanel" aria-labelledby="ppt-to-text-tab">
+            </div>
+            <div class="tab-pane fade" id="notes-process" role="tabpanel" aria-labelledby="notes-process-tab">
             </div>
         </div>
     </div>
@@ -33,6 +39,7 @@
     <script>
         $(document).ready(function () {
             $("#ppt-to-text").load("PPT_2_Text.html");
+            $("#notes-process").load("Notes_Process.html");
         });
     </script>
 </body>
