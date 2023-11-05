@@ -44,6 +44,6 @@
 
 ## 聯繫方式 (Contact Information)
 
-如果你有任何問題或者想要聯繫我，請發送電子郵件至[justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)。
+如果你有任何問題或者想要聯繫我，請發送電子郵件至 [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)。
 
 祝學習愉快！ (Happy Learning!)
