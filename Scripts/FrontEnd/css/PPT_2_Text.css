@@ -1,3 +1,13 @@
+html,
+body {
+    /* 視情況使用 */
+    overflow-y: hidden;
+}
+
+body {
+    overflow-x: auto;
+}
+
 #upload-form {
     max-width: 600px;
     margin: 30px auto;

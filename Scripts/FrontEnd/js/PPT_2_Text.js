@@ -1,5 +1,5 @@
-$(document).ready(function() {
-    $('#upload-form').on('submit', function(e) {
+$(document).ready(function () {
+    $('#upload-form').on('submit', function (e) {
         e.preventDefault();
         var formData = new FormData(this);
 
@@ -12,7 +12,7 @@ $(document).ready(function() {
             xhrFields: {
                 responseType: 'blob'
             },
-            success: function(blob) {
+            success: function (blob) {
                 var url = window.URL.createObjectURL(blob);
                 var a = document.createElement('a');
                 a.href = url;
@@ -21,7 +21,7 @@ $(document).ready(function() {
                 a.click();
                 window.URL.revokeObjectURL(url);
             },
-            error: function(xhr, status, error) {
+            error: function (xhr, status, error) {
                 $('#alert-placeholder').html(
                     '<div class="alert alert-danger" role="alert">' +
                     'An error occurred: ' + error +
