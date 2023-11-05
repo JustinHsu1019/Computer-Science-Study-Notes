@@ -1,6 +1,6 @@
 # 計算機概論 (Introduction to Computer Science) 學習筆記 (Study Notes)
 
-歡迎來到我的「計算機概論 (Introduction to Computer Science)」學習筆記（Study Notes）！在這個倉庫中，我會分享我在學習計算機科學的過程中所累積的筆記（notes），重要知識點（key knowledge points），有趣的見解（interesting insights），以及我在準備考試時遇到的問題和解答（exam questions and solutions）。除此之外，這裡還會有一些實用的腳本（Scripts），這些腳本被用來整理我的學習資料，包括老師的PPT、個人筆記、知識整理等等。
+歡迎來到我的「計算機概論 (Introduction to Computer Science)」學習筆記（Study Notes）！在這個倉庫中，我會分享我在學校課程中學習計算機概論所累積的筆記（notes），重要知識點（key knowledge points），有趣的見解（interesting insights），以及我在準備考試時遇到的問題和解答（exam questions and solutions）。除此之外，這裡還會有一些實用的腳本（Scripts），這些腳本被用來整理我的學習資料，包括老師的PPT、個人筆記、知識整理等等。
 
 ## 內容列表 (Table of Contents)
 
