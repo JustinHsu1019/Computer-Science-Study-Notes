@@ -14,6 +14,10 @@
 
 這部分包括了我在學習過程中整理的筆記和課程的重要知識點。這些建立在課堂簡報、書本資料以及線上資源的基礎之上。
 
+1. Special Chapter
+- [組合語言-學習 (Assembly Learning)](/Assembly/README.md)
+
+2. Chapter 1 to 7
 - [第一章筆記 (Chapter 1 Notes)](/Notes/chapter-1.md)
 - [第二章筆記 (Chapter 2 Notes)](/Notes/chapter-2.md)
 - [第三章筆記 (Chapter 3 Notes)](/Notes/chapter-3.md)
