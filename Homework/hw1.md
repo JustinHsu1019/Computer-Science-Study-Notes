@@ -1,5 +1,7 @@
 # 計算機概論 Homework #1
 
+- [Homework #1 詳解](/Homework/hw1_ans.pdf)
+
 1.	[P2-1] Convert the following (unsigned) binary numbers to decimal without using a calculator, showing your work:  
 (a)	(01101)<sub>2</sub>  
 (b)	(1011000)<sub>2</sub>  
