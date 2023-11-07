@@ -1,6 +1,8 @@
 # 計算機概論 Homework #1
 
-## [Homework #1 詳解](/Homework/hw1_ans.pdf)
+## [Homework #1 詳解 (點擊查看)](/Homework/hw1_ans.pdf)
+
+## Homework #1 題目
 
 1.	[P2-1] Convert the following (unsigned) binary numbers to decimal without using a calculator, showing your work:  
 (a)	(01101)<sub>2</sub>  
