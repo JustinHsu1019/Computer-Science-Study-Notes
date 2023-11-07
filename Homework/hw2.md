@@ -16,8 +16,6 @@
 
 6.	[P5-12] Using the instruction set of the simple computer in Section 5.8, write the code for a program that performs the following calculation: D -> A + B + C, in which A, B, C, and D are integers in two’s complement format. The user types the values of A, B, and C, and the value of D is displayed on the monitor. 
 
-7.	[P5-13] Using the instruction set of the simple computer, write the code for a program that performs the following calculation:  
-    B  <-  A + 3  
-A and 3 are integers in two’s complement format. The user types the value of A and the value of B is displayed on the monitor. (Hint: use the increment instruction.)
+7.	[P5-13] Using the instruction set of the simple computer, write the code for a program that performs the following calculation: B  <-  A + 3, A and 3 are integers in two’s complement format. The user types the value of A and the value of B is displayed on the monitor. (Hint: use the increment instruction.)
 
 8.	[P5-15] Using the instruction set of the simple computer in Section 5.8, write the code for a program that adds n integers typed on the keyboard and displays their sum.  You need first to type the value of n. (Hint: use decrement and jump instructions and repeat the addition n times.)
