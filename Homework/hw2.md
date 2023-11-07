@@ -1,6 +1,6 @@
 # 計算機概論 Homework #2
 
-## [Homework #2 詳解 (點擊查看)](/Homework/hw2_ans.pdf)
+## [Homework #2 詳解 (點擊查看)](/Homework/ans/hw_2_ans.md)
 
 ## Homework #2 題目
 

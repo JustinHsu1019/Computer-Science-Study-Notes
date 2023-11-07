@@ -40,7 +40,7 @@
 ## 學習資源 (Learning Resources)
 
 - [學校課程官網 (School Course Official Site)](https://www.cs.nccu.edu.tw/~ttsai/course/ICS2023.htm)
-- [推薦閱讀列表 (Recommended Reading List)](/Resources/reading-list.md)
+- [推薦閱讀列表 (Recommended Reading List)](/Resources/README.md)
 
 ## 聯繫方式 (Contact Information)
 
