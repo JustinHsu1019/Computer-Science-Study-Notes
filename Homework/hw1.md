@@ -35,7 +35,7 @@
 (d)	11001110
 
 8.	[P3-18] Convert the following numbers in 32-bit IEEE format.   
-(a)	-2^0 \times 1.10001  
-(b)	+2^3 \times 1.111111  
-(c)	+2^-4 \times 1.01110011  
-(d)	-2^-5 \times 1.01101000
+(a)	-2<sup>0</sup> &times; 1.10001  
+(b)	+2<sup>3</sup> &times; 1.111111  
+(c)	+2<sup>-4</sup> &times; 1.01110011  
+(d)	-2<sup>-5</sup> &times; 1.01101000
