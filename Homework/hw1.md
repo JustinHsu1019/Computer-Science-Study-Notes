@@ -1,4 +1,4 @@
-# 計算機概論Homework #1
+# 計算機概論 Homework #1
 
 1.	[P2-1] Convert the following (unsigned) binary numbers to decimal without using a calculator, showing your work: 
 (a)	(01101)<sub>2</sub>
